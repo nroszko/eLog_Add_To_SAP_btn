@@ -1,0 +1,272 @@
+{
+  "BTT_TK502": {
+    "product_ID": {
+      "tank_ID": 502,
+      "SCADA_tag": "analog.TT_BTT_TK502_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwAuUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MDJfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK503": {
+    "product_ID": {
+      "tank_ID": 503,
+      "SCADA_tag": "analog.TT_BTT_TK503_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwFOUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MDNfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK504": {
+    "product_ID": {
+      "tank_ID": 504,
+      "SCADA_tag": "analog.TT_BTT_TK504_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwJuUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MDRfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK505": {
+    "product_ID": {
+      "tank_ID": 505,
+      "SCADA_tag": "analog.TT_BTT_TK505_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwOOUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MDVfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK507": {
+    "product_ID": {
+      "tank_ID": 507,
+      "SCADA_tag": "analog.TT_BTT_TK507_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwSuUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MDdfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK508": {
+    "product_ID": {
+      "tank_ID": 508,
+      "SCADA_tag": "analog.TT_BTT_TK508_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwXOUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MDhfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK509": {
+    "product_ID": {
+      "tank_ID": 509,
+      "SCADA_tag": "analog.TT_BTT_TK509_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwbuUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MDlfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK510": {
+    "product_ID": {
+      "tank_ID": 510,
+      "SCADA_tag": "analog.TT_BTT_TK510_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwgOUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MTBfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK512": {
+    "product_ID": {
+      "tank_ID": 512,
+      "SCADA_tag": "analog.TT_BTT_TK512_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwkuUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MTJfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK514": {
+    "product_ID": {
+      "tank_ID": 514,
+      "SCADA_tag": "analog.TT_BTT_TK514_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwpOUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MTRfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK515": {
+    "product_ID": {
+      "tank_ID": 515,
+      "SCADA_tag": "analog.TT_BTT_TK515_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwtuUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MTVfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "BTT_TK516": {
+    "product_ID": {
+      "tank_ID": 516,
+      "SCADA_tag": "analog.TT_BTT_TK516_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwyOUGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfVEs1MTZfUFJPRF9JRF9TUC5DVVJWQUwuQ1Y"
+    }
+  },
+  "N40_TK1501": {
+    "product_ID": {
+      "tank_ID": 1501,
+      "SCADA_tag": "analog.TT_N40_TK1501_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwOuoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsxNTAxX1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_TK2501": {
+    "product_ID": {
+      "tank_ID": 2501,
+      "SCADA_tag": "analog.TT_N40_TK2501_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwSOoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsyNTAxX1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_TK2502": {
+    "product_ID": {
+      "tank_ID": 2502,
+      "SCADA_tag": "analog.TT_N40_TK2502_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwVuoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsyNTAyX1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_TK2503": {
+    "product_ID": {
+      "tank_ID": 2503,
+      "SCADA_tag": "analog.TT_N40_TK2503_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwZOoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsyNTAzX1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_TK2504": {
+    "product_ID": {
+      "tank_ID": 2504,
+      "SCADA_tag": "analog.TT_N40_TK2504_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwcuoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsyNTA0X1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_TK2505": {
+    "product_ID": {
+      "tank_ID": 2505,
+      "SCADA_tag": "analog.TT_N40_TK2505_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwgOoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsyNTA1X1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_TK2506": {
+    "product_ID": {
+      "tank_ID": 2506,
+      "SCADA_tag": "analog.TT_N40_TK2506_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwjuoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsyNTA2X1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_TK2507": {
+    "product_ID": {
+      "tank_ID": 2507,
+      "SCADA_tag": "analog.TT_N40_TK2507_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwnuoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsyNTA3X1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_TK2508": {
+    "product_ID": {
+      "tank_ID": 2508,
+      "SCADA_tag": "analog.TT_N40_TK2508_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwruoGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9ONDBfVEsyNTA4X1BST0RfSURfU1AuQ1VSVkFMLkNW"
+    }
+  },
+  "N40_Heavy_1_to_BTT": {
+    "product_ID": {
+      "SCADA_tag": "rtstring.TT_N40_HVY1_BTT_PID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwDr0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9IVlkxX0JUVF9QSUQuQ1VSVkFMLkNW"
+    },
+    "batch_ID": {
+      "SCADA_tag": "rtstring.TT_N40_HVY1_BTT_BID.curval.cv",
+      "Web_ID_Prod": "F1DPC3wd_tmiEkCJY5qUdFoEMw57sHAAUEVNQklOQV9QSVxSVFNUUklORy5UVF9ONDBfSFZZMV9CVFRfQklELkNVUlZBTC5DVg",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwDL0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9IVlkxX0JUVF9CSUQuQ1VSVkFMLkNW"
+    },
+    "delivery_tank_ID": {
+      "SCADA_tag": "rtstring.TT_N40_HVY1_BTT_TO_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwD70IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9IVlkxX0JUVF9UT19US0lELkNVUlZBTC5DVg"
+    },
+    "from_tank_ID": {
+      "SCADA_tag": "N40"
+    }
+  },
+  "N40_Heavy_2_to_BTT": {
+    "product_ID": {
+      "SCADA_tag": "rtstring.TT_N40_HVY2_BTT_PID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwEr0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9IVlkyX0JUVF9QSUQuQ1VSVkFMLkNW"
+    },
+    "batch_ID": {
+      "SCADA_tag": "rtstring.TT_N40_HVY2_BTT_BID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwEL0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9IVlkyX0JUVF9CSUQuQ1VSVkFMLkNW"
+    },
+    "delivery_tank_ID": {
+      "SCADA_tag": "rtstring.TT_N40_HVY2_BTT_TO_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwE70IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9IVlkyX0JUVF9UT19US0lELkNVUlZBTC5DVg"
+    },
+    "from_tank_ID": {
+      "SCADA_tag": "N40"
+    }
+  },
+  "N40_Light_1_to_BTT": {
+    "product_ID": {
+      "SCADA_tag": "rtstring.TT_N40_LGHT1_BTT_PID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwFr0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9MR0hUMV9CVFRfUElELkNVUlZBTC5DVg"
+    },
+    "batch_ID": {
+      "SCADA_tag": "rtstring.TT_N40_LGHT1_BTT_BID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwFL0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9MR0hUMV9CVFRfQklELkNVUlZBTC5DVg"
+    },
+    "delivery_tank_ID": {
+      "SCADA_tag": "rtstring.TT_N40_LGHT1_BTT_TO_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwF70IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9MR0hUMV9CVFRfVE9fVEtJRC5DVVJWQUwuQ1Y"
+    },
+    "from_tank_ID": {
+      "SCADA_tag": "N40"
+    }
+  },
+  "BTT_Light_to_TM_Light": {
+    "product_ID": {
+      "SCADA_tag": "analog.TT_BTT_BTTL_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwFOMGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfQlRUTF9QUk9EX0lEX1NQLkNVUlZBTC5DVg"
+    },
+    "batch_ID": {
+      "SCADA_tag": "analog.TT_BTT_BTTL_BT_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwEuMGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfQlRUTF9CVF9JRF9TUC5DVVJWQUwuQ1Y"
+    },
+    "delivery_tank_ID": {
+      "SCADA_tag": "MOV1102"
+    },
+    "from_tank_ID": {
+      "SCADA_tag": "rtstring.TT_BTT_LGHT_TM_FRM_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagw-LwIAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX0JUVF9MR0hUX1RNX0ZSTV9US0lELkNVUlZBTC5DVg"
+    }
+  },
+  "BTT_Enbridge": {
+    "product_ID": {
+      "SCADA_tag": "rtstring.TT_N40_ENB_N40_PID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwCr0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9FTkJfTjQwX1BJRC5DVVJWQUwuQ1Y"
+    },
+    "batch_ID": {
+      "SCADA_tag": "rtstring.TT_N40_ENB_N40_BID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwCL0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9FTkJfTjQwX0JJRC5DVVJWQUwuQ1Y"
+    },
+    "delivery_tank_ID": {
+      "SCADA_tag": "rtstring.TT_N40_ENB_N40_TO_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwC70IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9FTkJfTjQwX1RPX1RLSUQuQ1VSVkFMLkNW"
+    },
+    "from_tank_ID": {
+      "SCADA_tag": "rtstring.TT_N40_ENB_N40_FRM_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwCb0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9FTkJfTjQwX0ZSTV9US0lELkNVUlZBTC5DVg"
+    }
+  },
+  "BTT_N40_BI_Directional": {
+    "product_ID": {
+      "SCADA_tag": "rtstring.TT_N40_BIDIREC_PID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwBr0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9CSURJUkVDX1BJRC5DVVJWQUwuQ1Y"
+    },
+    "batch_ID": {
+      "SCADA_tag": "rtstring.TT_N40_BIDIREC_BID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwBL0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9CSURJUkVDX0JJRC5DVVJWQUwuQ1Y"
+    },
+    "delivery_tank_ID": {
+      "SCADA_tag": "rtstring.TT_N40_BIDIREC_TO_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwB70IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9CSURJUkVDX1RPX1RLSUQuQ1VSVkFMLkNW"
+    },
+    "from_tank_ID": {
+      "SCADA_tag": "rtstring.TT_N40_BIDIREC_FRM_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwBb0IAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX040MF9CSURJUkVDX0ZSTV9US0lELkNVUlZBTC5DVg"
+    }
+  },
+  "BTT_Heavy_to_TM_Heavy": {
+    "product_ID": {
+      "SCADA_tag": "analog.TT_BTT_BTTH_PROD_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwEOMGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfQlRUSF9QUk9EX0lEX1NQLkNVUlZBTC5DVg"
+    },
+    "batch_ID": {
+      "description": "[ETT] BTT-BTT Heavy to TM Batch ID SP",
+      "SCADA_tag": "analog.TT_BTT_BTTH_BT_ID_SP.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagwDuMGAAUEVNQklOQV9QSV9URVNUXEFOQUxPRy5UVF9CVFRfQlRUSF9CVF9JRF9TUC5DVVJWQUwuQ1Y"
+    },
+    "delivery_tank_ID": {
+      "SCADA_tag": "MOV1201"
+    },
+    "from_tank_ID": {
+      "SCADA_tag": "rtstring.TT_BTT_HVY_TM_FRM_TKID.curval.cv",
+      "Web_ID_Test": "F1DPFsKewUDaUkGXa2tBFjoagw9LwIAAUEVNQklOQV9QSV9URVNUXFJUU1RSSU5HLlRUX0JUVF9IVllfVE1fRlJNX1RLSUQuQ1VSVkFMLkNW"
+    }
+  }
+}
